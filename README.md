@@ -86,6 +86,7 @@ renarta@workstation:~$ neofetch --ascii_distro arch
 
 | Repository | Tech Stack | Highlights |
 | :--- | :--- | :--- |
+| **[zenfocus](https://github.com/renartacayle/zenfocus)** | `Go` `Bubbletea` `Lip Gloss` | Minimalist, aesthetic Pomodoro & deep work TUI with ASCII digital clock, desktop notifications, and zero-distraction keyboard workflow. |
 | **[terminal.riuph.me](https://terminal.riuph.me)** | `HTML5` `CSS3` `Web Audio API` | Interactive retro CRT terminal portfolio with synthesized mechanical keyboard audio, scanline shaders, and Catppuccin Mocha theming. |
 | **[renartacayle/dotfiles](https://github.com/renartacayle/dotfiles)** | `GNU Stow` `Lua` `Shell` `Hyprland` | Modular workstation configuration: Neovim LSP suite, Tmux, Zsh, Catppuccin Mocha theming, and automated Docker CI test harness. |
 
