@@ -86,6 +86,7 @@ renarta@workstation:~$ neofetch --ascii_distro arch
 
 | Repository | Tech Stack | Highlights |
 | :--- | :--- | :--- |
+| **[sentinel-mcp](https://github.com/renartacayle/sentinel-mcp)** | `TypeScript` `DevSecOps` `MCP SDK` | Autonomous security & secret hunter MCP server for AI coding assistants: Shannon entropy detection, dependency CVE audits, and CIS Docker hardening. |
 | **[git-nexus-mcp](https://github.com/renartacayle/git-nexus-mcp)** | `TypeScript` `MCP SDK` `Node.js` | Intelligent Git & Workspace Model Context Protocol (MCP) server for AI coding agents with token-optimized diffs and branch hygiene diagnostics. |
 | **[zenfocus](https://github.com/renartacayle/zenfocus)** | `Go` `Bubbletea` `Lip Gloss` | Minimalist, aesthetic Pomodoro & deep work TUI with ASCII digital clock, desktop notifications, and zero-distraction keyboard workflow. |
 | **[terminal.riuph.me](https://terminal.riuph.me)** | `HTML5` `CSS3` `Web Audio API` | Interactive retro CRT terminal portfolio with synthesized mechanical keyboard audio, scanline shaders, and Catppuccin Mocha theming. |
