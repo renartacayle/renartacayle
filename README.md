@@ -6,11 +6,11 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/renartacayle?tab=repositories&q=&type=public">
-    <img src="https://img.shields.io/github/followers/renartacayle?logo=github&style=for-the-badge&color=89b4fa&labelColor=1e1e2e" alt="Followers" />
+  <a href="https://terminal.riuph.me" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-terminal.riuph.me-cba6f7?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=1e1e2e" alt="Terminal Portfolio" />
   </a>
   <a href="https://github.com/renartacayle/dotfiles">
-    <img src="https://img.shields.io/badge/Workstation-Dotfiles-cba6f7?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=1e1e2e" alt="Dotfiles" />
+    <img src="https://img.shields.io/badge/Workstation-Dotfiles-89b4fa?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=1e1e2e" alt="Dotfiles" />
   </a>
   <img src="https://img.shields.io/badge/Environment-Wayland%20%2F%20Hyprland-a6e3a1?style=for-the-badge&logo=linux&logoColor=white&labelColor=1e1e2e" alt="Linux" />
 </p>
@@ -26,10 +26,11 @@ renarta@workstation:~$ neofetch --ascii_distro arch
        /\         User     : Renarta (renartacayle)
       /  \        Role     : Software Engineer & Open-Source Builder
      /\   \       OS       : Linux (Arch / Ubuntu 24.04)
-    /      \      Shell    : Zsh + Starship Prompt
-   /   ,,   \     Editor   : Neovim (Lua + lazy.nvim + Mason LSP)
-  /   |  |  -\    Multiplex: Tmux (Catppuccin Mocha, Vim-nav)
- /_-''    ''-_    Interests: High-Performance CLI, Developer Tools, Distributed Systems
+    /      \      Portfolio: https://terminal.riuph.me
+   /   ,,   \     Shell    : Zsh + Starship Prompt
+  /   |  |  -\    Editor   : Neovim (Lua + lazy.nvim + Mason LSP)
+ /_-''    ''-_    Multiplex: Tmux (Catppuccin Mocha, Vim-nav)
+                  Interests: High-Performance CLI, Developer Tools, Distributed Systems
 ```
 
 ---
@@ -85,6 +86,7 @@ renarta@workstation:~$ neofetch --ascii_distro arch
 
 | Repository | Tech Stack | Highlights |
 | :--- | :--- | :--- |
+| **[terminal.riuph.me](https://terminal.riuph.me)** | `HTML5` `CSS3` `Web Audio API` | Interactive retro CRT terminal portfolio with synthesized mechanical keyboard audio, scanline shaders, and Catppuccin Mocha theming. |
 | **[renartacayle/dotfiles](https://github.com/renartacayle/dotfiles)** | `GNU Stow` `Lua` `Shell` `Hyprland` | Modular workstation configuration: Neovim LSP suite, Tmux, Zsh, Catppuccin Mocha theming, and automated Docker CI test harness. |
 
 ---
@@ -96,11 +98,15 @@ renarta@workstation:~$ neofetch --ascii_distro arch
 </p>
 
 <!-- Social Connect Badges -->
+<a href="https://terminal.riuph.me" target="_blank">
+  <img src="https://img.shields.io/badge/Terminal_Portfolio-89b4fa?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
 <a href="https://github.com/renartacayle">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<a href="mailto:renarta@example.com">
+<a href="mailto:fox.renart.56@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
