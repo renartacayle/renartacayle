@@ -86,6 +86,7 @@ renarta@workstation:~$ neofetch --ascii_distro arch
 
 | Repository | Tech Stack | Highlights |
 | :--- | :--- | :--- |
+| **[aegis-cli](https://github.com/renartacayle/aegis-cli)** | `Go 1.23` `OWASP` `Security` | Automated API security auditor & OWASP hardening CLI: headers, CORS, exposed .git/.env, JWT 'none' alg, weak secrets, and rate limit probes. |
 | **[vanguard-tui](https://github.com/renartacayle/vanguard-tui)** | `Go 1.23` `Bubbletea` `Linux /proc` | Cyberpunk Linux process, network socket & hardware telemetry monitor with zero external dependencies and 2.7MB stripped binary. |
 | **[sentinel-mcp](https://github.com/renartacayle/sentinel-mcp)** | `TypeScript` `DevSecOps` `MCP SDK` | Autonomous security & secret hunter MCP server for AI coding assistants: Shannon entropy detection, dependency CVE audits, and CIS Docker hardening. |
 | **[git-nexus-mcp](https://github.com/renartacayle/git-nexus-mcp)** | `TypeScript` `MCP SDK` `Node.js` | Intelligent Git & Workspace Model Context Protocol (MCP) server for AI coding agents with token-optimized diffs and branch hygiene diagnostics. |
